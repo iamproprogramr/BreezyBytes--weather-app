@@ -41,9 +41,5 @@ Email: yousafsahiwal3@gmail.com
 
 3. Enter a city name in the input field and click the "Search" button to fetch and display the weather information.
 
-## Video Output
-#### 1. Initial Text Editor Window
-![iamproprogramr](output.mkv)
-
 
 
