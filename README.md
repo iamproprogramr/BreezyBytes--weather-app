@@ -36,7 +36,7 @@ Email: yousafsahiwal3@gmail.com
 1. Navigate to the directory containing the script.
 2. Run the script using Python:
     ```sh
-    python weather_app.py
+    python BreezyBytes.py
     ```
 
 3. Enter a city name in the input field and click the "Search" button to fetch and display the weather information.
